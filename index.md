@@ -24,7 +24,7 @@
 - 14:00-14:25 Arianna Bisazza: [Does Syntactic Knowledge Transfer Cross-Lingually in Multilingual Neural Language Models?](bisazza.pdf)
 - 14:25-14:50 Madhumita Sushil: Synthetic dataset for explaining and evaluating rules learned by RNNs
 - 14:50-15:10 Coffee break
-- 15:10-15:35 Mathijs Mul: [Siamese recurrent networks can learn first-order logic reasoning and exhibit zero-shot generalization to novel expressions](mul.pdf)
+- 15:10-15:35 Mathijs Mul & Jelle Zuidema: [Siamese recurrent networks can learn first-order logic reasoning and exhibit zero-shot generalization to novel expressions](mul.pdf)
 - 15:35-16:00 Sandro Pezzelle & Raquel Fernández: [Exploring Models' Abilities in Grounding Vague Expressions](pezzelle.pdf)
 
 
