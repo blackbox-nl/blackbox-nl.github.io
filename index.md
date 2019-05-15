@@ -31,8 +31,8 @@
 
 ## Organizers
 
-- [Afra Alishahi](http://afra.alishahi.name)
-- [Grzegorz Chrupała](http://grzegorz.chrupala.me)
+- [Afra Alishahi](http://afra.alishahi.name), Tilburg University
+- [Grzegorz Chrupała](http://grzegorz.chrupala.me), Tilburg University
 
 ## Sponsors
 
