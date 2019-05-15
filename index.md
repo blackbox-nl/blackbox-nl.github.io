@@ -5,7 +5,7 @@
 
 ## Venue
 
-[Jheronimus Academy of Data Science](https://www.jads.nl/)
+[Jheronimus Academy of Data Science](https://www.jads.nl/), s'Hertogenbosch, 6 May 2019
 
 
 ## Program
